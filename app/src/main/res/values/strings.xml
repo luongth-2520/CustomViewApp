@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CustomCircularApplication</string>
+    <string name="msg_no_data">No data</string>
+    <string name="msg_width_must_be_exact">Width must be EXACTLY,you should set like android:width="200dp"</string>
+    <string name="msg_height_must_be_exact">Height must be EXACTLY,you should set like android:height="200dp"</string>
+    <string name="msg_x_or_y_null">X or Y items is null</string>
+    <string name="msg_incomplete_pointmap">PointMap has incomplete data!</string>
+</resources>
